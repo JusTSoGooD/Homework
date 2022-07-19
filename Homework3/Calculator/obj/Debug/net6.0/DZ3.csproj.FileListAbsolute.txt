@@ -1,0 +1,15 @@
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\DZ3.exe
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\DZ3.deps.json
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\DZ3.runtimeconfig.json
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\DZ3.dll
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\DZ3.pdb
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.dll
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\refint\DZ3.dll
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.pdb
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\ref\DZ3.dll

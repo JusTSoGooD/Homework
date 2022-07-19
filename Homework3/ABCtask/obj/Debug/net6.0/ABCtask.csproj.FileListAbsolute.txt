@@ -1,0 +1,15 @@
+D:\Программы c#\DZ3\ABCtask\bin\Debug\net6.0\ABCtask.exe
+D:\Программы c#\DZ3\ABCtask\bin\Debug\net6.0\ABCtask.deps.json
+D:\Программы c#\DZ3\ABCtask\bin\Debug\net6.0\ABCtask.runtimeconfig.json
+D:\Программы c#\DZ3\ABCtask\bin\Debug\net6.0\ABCtask.dll
+D:\Программы c#\DZ3\ABCtask\bin\Debug\net6.0\ABCtask.pdb
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.csproj.AssemblyReference.cache
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.AssemblyInfoInputs.cache
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.AssemblyInfo.cs
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.csproj.CoreCompileInputs.cache
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.dll
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\refint\ABCtask.dll
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.pdb
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ABCtask.genruntimeconfig.cache
+D:\Программы c#\DZ3\ABCtask\obj\Debug\net6.0\ref\ABCtask.dll

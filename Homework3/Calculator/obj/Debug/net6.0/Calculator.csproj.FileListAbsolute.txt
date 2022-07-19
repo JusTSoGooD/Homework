@@ -1,0 +1,15 @@
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\Calculator.exe
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\Calculator.deps.json
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\Calculator.dll
+D:\Программы c#\DZ3\ConsoleApp1\bin\Debug\net6.0\Calculator.pdb
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.dll
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\refint\Calculator.dll
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.pdb
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Программы c#\DZ3\ConsoleApp1\obj\Debug\net6.0\ref\Calculator.dll
