@@ -1,0 +1,15 @@
+D:\Программы c#\TEACHMESKILLS\StackArray\bin\Debug\net6.0\StackArray.exe
+D:\Программы c#\TEACHMESKILLS\StackArray\bin\Debug\net6.0\StackArray.deps.json
+D:\Программы c#\TEACHMESKILLS\StackArray\bin\Debug\net6.0\StackArray.runtimeconfig.json
+D:\Программы c#\TEACHMESKILLS\StackArray\bin\Debug\net6.0\StackArray.dll
+D:\Программы c#\TEACHMESKILLS\StackArray\bin\Debug\net6.0\StackArray.pdb
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.csproj.AssemblyReference.cache
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.AssemblyInfoInputs.cache
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.AssemblyInfo.cs
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.csproj.CoreCompileInputs.cache
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.dll
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\refint\StackArray.dll
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.pdb
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\StackArray.genruntimeconfig.cache
+D:\Программы c#\TEACHMESKILLS\StackArray\obj\Debug\net6.0\ref\StackArray.dll

@@ -1,0 +1,15 @@
+D:\Программы c#\TEACHMESKILLS\Homework4\bin\Debug\net6.0\Array.exe
+D:\Программы c#\TEACHMESKILLS\Homework4\bin\Debug\net6.0\Array.deps.json
+D:\Программы c#\TEACHMESKILLS\Homework4\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Программы c#\TEACHMESKILLS\Homework4\bin\Debug\net6.0\Array.dll
+D:\Программы c#\TEACHMESKILLS\Homework4\bin\Debug\net6.0\Array.pdb
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.dll
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\refint\Array.dll
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.pdb
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\Программы c#\TEACHMESKILLS\Homework4\obj\Debug\net6.0\ref\Array.dll
