@@ -1,4 +1,6 @@
-﻿
+﻿using System;
+using System.Linq;
+
 namespace StudentsList
 {
     internal class JournalManager
@@ -12,50 +14,60 @@ namespace StudentsList
                 var operation = (MenuFunctions)int.Parse(Console.ReadLine());
                 switch (operation)
                 {
-                    case MenuFunctions.AddGrade:
+                    case (MenuFunctions.AddGrade):
                         {
                             AddStudentGrade(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.ChangeGrade:
+
+                    case (MenuFunctions.ChangeGrade):
                         {
                             ChangeStudentGrade(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.RemoveGrade:
+
+                    case (MenuFunctions.RemoveGrade):
                         {
                             RemoveStudentGrade(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.DisplayJournal:
+
+                    case (MenuFunctions.DisplayJournal):
                         {
                             DisplayAllJournal(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.DisplayAverage:
+
+                    case (MenuFunctions.DisplayAverage):
                         {
                             DisplayAverageRating(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.TopGradeStudents:
+
+                    case (MenuFunctions.TopGradeStudents):
                         {
                             DisplayTopPerfomingStudents(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.EightOrHigherStudents:
+
+                    case (MenuFunctions.EightOrHigherStudents):
                         {
                             DisplayStudentsWithEightOrHigherRating(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.FourOrLowerStudents:
+
+                    case (MenuFunctions.FourOrLowerStudents):
                         {
                             DisplayStudentsWithFourOrLowerRating(gradeJournal);
                             break;
                         }
-                    case MenuFunctions.Exit:
+
+                    case (MenuFunctions.Exit):
                         {
+
                             return;
                         }
+
                     default:
                         {
                             Console.WriteLine("Unknown command");
@@ -68,7 +80,7 @@ namespace StudentsList
 
         private static void AddStudentGrade(Dictionary<string, int> gradeJournal)
         {
-            Console.WriteLine("Enter student's surname from capital letter (case sensitive)");
+            Console.WriteLine("Enter student's surname from capital letter");
             string surname = Console.ReadLine();
             Console.WriteLine("Enter student's grade");
             int grade = int.Parse(Console.ReadLine());
@@ -151,11 +163,12 @@ namespace StudentsList
         {
             foreach (KeyValuePair<string, int> student in gradeJournal)
             {
-                if (student.Value >= 4)
+                if (student.Value >= 8)
                 {
                     Console.WriteLine(student.Key);
                 }
             }
+
             ConsoleManager.ContinueWork();
         }
 
@@ -163,7 +176,7 @@ namespace StudentsList
         {
             foreach (KeyValuePair<string, int> student in gradeJournal)
             {
-                if (student.Value <=4)
+                if (student.Value <= 4)
                 {
                     Console.WriteLine(student.Key);
                 }
@@ -173,3 +186,4 @@ namespace StudentsList
         }
     }
 }
+

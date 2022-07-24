@@ -1,5 +1,5 @@
-﻿
-namespace StudentsList
+
+﻿namespace StudentsList
 {
     internal class Program
     {
