@@ -1,0 +1,15 @@
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.exe
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.deps.json
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.runtimeconfig.json
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.dll
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.pdb
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.csproj.AssemblyReference.cache
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.AssemblyInfoInputs.cache
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.AssemblyInfo.cs
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.csproj.CoreCompileInputs.cache
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.dll
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\refint\StudentsList.dll
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.pdb
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.genruntimeconfig.cache
+D:\Программы c#\TEACHMESKILLS\Homework5\StudentsList\StudentsList\obj\Debug\net6.0\ref\StudentsList.dll
